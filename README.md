@@ -29,8 +29,6 @@ This is a self-directed Excel analytics project focused on analyzing sales perfo
 ---
 
 ## 📈 Output (Dashboard Preview)
-*(Agar dashboard ka screenshot tumhare paas ho to upload karo aur neeche image ka link add kar do)*
-
 ![Dashboard Preview]<img width="1025" height="521" alt="Screenshot 2025-10-29 020550" src="https://github.com/user-attachments/assets/d15000b4-3a88-4854-be9e-d7e9cc1b4e02" />
 
 
